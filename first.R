@@ -5,8 +5,8 @@ library(dplyr)
 oauth_endpoints("linkedin")
 
 app <- oauth_app("linkedin",
-                   key = "788d7pvpne58ny",
-                   secret = "XMTmGyTUCo7Ydnu1")
+                   key =,
+                   secret = )
 
 
 
